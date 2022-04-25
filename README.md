@@ -1,9 +1,9 @@
-### <center> Hi I'm Sumin 👋</center>
+### <center> Welcome to my Git 👋</center>
 
 
 <center><img src = "https://user-images.githubusercontent.com/95115282/165064623-a9069225-5a89-4e27-864a-bf2625e0d1e6.gif" width = "240px" height = "229px"></img></center>
 
-- Index
+💜 Index 💜
   1. 가족소개
   2. 학력
   3. 좋아하는 것
