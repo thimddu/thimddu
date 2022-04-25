@@ -1,6 +1,6 @@
 ### Hi I'm Sumin 👋
 
-![Alt text](C:\Users\82103\OneDrive\바탕 화면\푸.gif)
+![푸](https://user-images.githubusercontent.com/95115282/165064623-a9069225-5a89-4e27-864a-bf2625e0d1e6.gif)
 <!--
 **thimddu/thimddu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
