@@ -1,4 +1,4 @@
-### Hi I'm Sumin 👋
+### **Hi I'm Sumin** 👋
 
 <!--
 **thimddu/thimddu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
